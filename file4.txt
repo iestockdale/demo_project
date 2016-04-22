@@ -1,0 +1,2 @@
+This is file4.  It is being created in the cloned copy.
+First version.
